@@ -13,4 +13,4 @@ python RawToJpeg/RawToJpeg.py inputPath outputPath
 ```
 python3 RawToJpeg/RawToJpeg.py inputPath outputPath
 ```
-![](https://github.com/Rakshars/Trapture-noDisplayDarknet/blob/main/JpegRaw.jpg)
+![](https://github.com/Rakshars/RawToJpeg/blob/main/JpegRaw.jpg)
