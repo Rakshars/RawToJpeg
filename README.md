@@ -6,11 +6,11 @@ Using this code, you can convert any raw images to jpeg format. This code has th
 
 ### For Python2:
 ```
-python RawToJpeg/RawToJpeg.py inputPath outputPath
+python RawToJpeg/RawToJpeg1.py inputPath outputPath
 ```
 
 ### For Python3:
 ```
-python3 RawToJpeg/RawToJpeg.py inputPath outputPath
+python3 RawToJpeg/RawToJpeg1.py inputPath outputPath
 ```
 ![](https://github.com/Rakshars/RawToJpeg/blob/main/JpegRaw.jpg)
